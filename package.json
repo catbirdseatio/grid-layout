@@ -1,0 +1,19 @@
+{
+  "name": "grid-layout",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "multiple.js": "^0.0.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  }
+}
